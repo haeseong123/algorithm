@@ -17,6 +17,9 @@
 - [최빈값](https://github.com/haeseong123/algorithm/blob/main/mode/mode.md)
 - [완전 탐색](https://github.com/haeseong123/algorithm/blob/main/brute_force/brute_force.md)
     - [재귀 함수](https://github.com/haeseong123/algorithm/blob/main/brute_force/recursive/recursive.md)
+    - [비트 마스크](https://github.com/haeseong123/algorithm/blob/main/brute_force/bitmask/bitmask.md)
+    - [순열, 조합](https://github.com/haeseong123/algorithm/blob/main/brute_force/perm_comb/perm_comb.md)
+    - [BFS, DFS](https://github.com/haeseong123/algorithm/blob/main/brute_force/bfs_dfs/bfs_dfs.md)
 
 ## 기타
 

@@ -152,7 +152,7 @@ def find_sum_combinations(n, target_sum, cur_sum):
             find_sum_combinations(n - 1, target_sum, cur_sum + n)
 ```
 
-## 출처
+## 참고
 
 [Brute-force search](https://en.wikipedia.org/wiki/Brute-force_search)
 
