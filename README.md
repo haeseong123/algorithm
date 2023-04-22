@@ -22,6 +22,11 @@
     - [DFS, BFS](https://github.com/haeseong123/algorithm/blob/main/brute_force/dfs_bfs/dfs_bfs.md)
 - [정렬](https://github.com/haeseong123/algorithm/blob/main/sorting/sorting.md)
   - [위상 정렬](https://github.com/haeseong123/algorithm/blob/main/sorting/topological_sorting/topological_sorting.md)
+- [동적 계획법](https://github.com/haeseong123/algorithm/blob/main/dp/dp.md)
+  - [0-1 배낭 문제](https://github.com/haeseong123/algorithm/blob/main/dp/01_knapsack/01_knapsack.md)
+  - [연쇄 행렬 곱셈](https://github.com/haeseong123/algorithm/blob/main/dp/chained_matrix_multiplication/chained_matrix_multiplication.md)
+  - [최장 공통 부분 수열: Longest Common Subsequence, LCS](https://github.com/haeseong123/algorithm/blob/main/dp/lcs/lcs.md)
+  - [최장 증가 부분 수열: Longest Increasing Subsequence, LIS](https://github.com/haeseong123/algorithm/blob/main/dp/lis/lis.md)
 
 ## 기타
 
