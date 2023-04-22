@@ -20,6 +20,8 @@
     - [비트 마스크](https://github.com/haeseong123/algorithm/blob/main/brute_force/bitmask/bitmask.md)
     - [순열, 조합](https://github.com/haeseong123/algorithm/blob/main/brute_force/perm_comb/perm_comb.md)
     - [DFS, BFS](https://github.com/haeseong123/algorithm/blob/main/brute_force/dfs_bfs/dfs_bfs.md)
+- [정렬](https://github.com/haeseong123/algorithm/blob/main/sorting/sorting.md)
+  - [위상 정렬](https://github.com/haeseong123/algorithm/blob/main/sorting/topological_sorting/topological_sorting.md)
 
 ## 기타
 
