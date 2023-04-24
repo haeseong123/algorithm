@@ -21,12 +21,16 @@
     - [순열, 조합](https://github.com/haeseong123/algorithm/blob/main/brute_force/perm_comb/perm_comb.md)
     - [DFS, BFS](https://github.com/haeseong123/algorithm/blob/main/brute_force/dfs_bfs/dfs_bfs.md)
 - [정렬](https://github.com/haeseong123/algorithm/blob/main/sorting/sorting.md)
-  - [위상 정렬](https://github.com/haeseong123/algorithm/blob/main/sorting/topological_sorting/topological_sorting.md)
+    - [위상 정렬](https://github.com/haeseong123/algorithm/blob/main/sorting/topological_sorting/topological_sorting.md)
 - [동적 계획법](https://github.com/haeseong123/algorithm/blob/main/dp/dp.md)
-  - [0-1 배낭 문제](https://github.com/haeseong123/algorithm/blob/main/dp/01_knapsack/01_knapsack.md)
-  - [연쇄 행렬 곱셈](https://github.com/haeseong123/algorithm/blob/main/dp/chained_matrix_multiplication/chained_matrix_multiplication.md)
-  - [최장 공통 부분 수열: Longest Common Subsequence, LCS](https://github.com/haeseong123/algorithm/blob/main/dp/lcs/lcs.md)
-  - [최장 증가 부분 수열: Longest Increasing Subsequence, LIS](https://github.com/haeseong123/algorithm/blob/main/dp/lis/lis.md)
+    - [0-1 배낭 문제](https://github.com/haeseong123/algorithm/blob/main/dp/01_knapsack/01_knapsack.md)
+    - [연쇄 행렬 곱셈](https://github.com/haeseong123/algorithm/blob/main/dp/chained_matrix_multiplication/chained_matrix_multiplication.md)
+    - [최장 공통 부분 수열: Longest Common Subsequence, LCS](https://github.com/haeseong123/algorithm/blob/main/dp/lcs/lcs.md)
+    - [최장 증가 부분 수열: Longest Increasing Subsequence, LIS](https://github.com/haeseong123/algorithm/blob/main/dp/lis/lis.md)
+- [그리디 알고리즘](https://github.com/haeseong123/algorithm/blob/main/greedy/greedy.md)
+    - [물건을 나눌 수 있는 배낭 문제](https://github.com/haeseong123/algorithm/blob/main/greedy/fractional_knapsack/fractional_knapsack.md)
+    - [거스름돈](https://github.com/haeseong123/algorithm/blob/main/greedy/change_making/change_making.md)
+    - [최소 신장 트리: Minimum Spanning Tree, MST](https://github.com/haeseong123/algorithm/blob/main/greedy/minimum_spanning_tree/minimum_spanning_tree.md)
 
 ## 기타
 
