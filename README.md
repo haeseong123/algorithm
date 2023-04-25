@@ -28,9 +28,10 @@
     - [최장 공통 부분 수열: Longest Common Subsequence, LCS](https://github.com/haeseong123/algorithm/blob/main/dp/lcs/lcs.md)
     - [최장 증가 부분 수열: Longest Increasing Subsequence, LIS](https://github.com/haeseong123/algorithm/blob/main/dp/lis/lis.md)
 - [그리디 알고리즘](https://github.com/haeseong123/algorithm/blob/main/greedy/greedy.md)
-    - [물건을 나눌 수 있는 배낭 문제](https://github.com/haeseong123/algorithm/blob/main/greedy/fractional_knapsack/fractional_knapsack.md)
     - [거스름돈](https://github.com/haeseong123/algorithm/blob/main/greedy/change_making/change_making.md)
+    - [물건을 나눌 수 있는 배낭 문제](https://github.com/haeseong123/algorithm/blob/main/greedy/fractional_knapsack/fractional_knapsack.md)
     - [최소 신장 트리: Minimum Spanning Tree, MST](https://github.com/haeseong123/algorithm/blob/main/greedy/minimum_spanning_tree/minimum_spanning_tree.md)
+    - [활동 선택 문제: Activity selection problem](https://github.com/haeseong123/algorithm/blob/main/greedy/activity_selection/activity_selection.md)
 
 ## 기타
 

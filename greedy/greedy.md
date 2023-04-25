@@ -27,9 +27,10 @@
 
 ## 그리디 알고리즘 연관 문제
 
-- [물건을 나눌 수 있는 배낭 문제](https://github.com/haeseong123/algorithm/blob/main/greedy/fractional_knapsack/fractional_knapsack.md)
 - [거스름돈](https://github.com/haeseong123/algorithm/blob/main/greedy/change_making/change_making.md)
+- [물건을 나눌 수 있는 배낭 문제](https://github.com/haeseong123/algorithm/blob/main/greedy/fractional_knapsack/fractional_knapsack.md)
 - [최소 신장 트리: Minimum Spanning Tree, MST](https://github.com/haeseong123/algorithm/blob/main/greedy/minimum_spanning_tree/minimum_spanning_tree.md)
+- [활동 선택 문제: Activity selection problem](https://github.com/haeseong123/algorithm/blob/main/greedy/activity_selection/activity_selection.md)
 
 ## 출처
 
